@@ -1,0 +1,1 @@
+Functional programming, or FP, is a coding paradigm in which the building blocks are immutable values and “pure functions” that share no state with other functions. Every time a pure function has a given input, it will return the same output – without mutating data or causing side effects.
